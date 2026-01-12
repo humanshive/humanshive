@@ -1,19 +1,16 @@
-## 👋 Who are we?
-We are developers running a small team called **HumansHive**.  
-We work as game developers, designers, 3D modelers, and AR/VR creators.
+## Hey there 👋
 
-## 🚧 What are we currently working on?
-We are currently working on a **VR project for a client**.
+We’re **HumansHive**, a small team of developers, designers, and 3D artists.
 
-## 🛠️ What tools do we use?
-- Unity  
-- Unreal Engine  
-- Blender  
-- Maya  
-- Adobe Illustrator  
+We build games, 3D models, and AR/VR experiences, working mainly with **Unity** and **Unreal Engine**.  
+Our focus is on clean work, teamwork, and turning ideas into real, working products.
 
-## 📬 How can you reach us?
-- GitHub (you’re here)
-- Instagram
-- LinkedIn (coming soon)
-- Website (coming soon)
+Right now, we’re working on a **VR project for a client**, handling both development and 3D assets.
+
+### Tools we work with
+Unity · Unreal Engine · Blender · Maya · Adobe Illustrator
+
+You can reach us here on **GitHub**.  
+We’re also active on **Instagram**, with **LinkedIn and a website coming soon**.
+
+We’re always open to new ideas, collaborations, and client projects.
