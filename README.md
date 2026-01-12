@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Who are we?
+We are developers running a small team called **HumansHive**.  
+We work as game developers, designers, 3D modelers, and AR/VR creators.
 
-<!--
-**humanshive/humanshive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚧 What are we currently working on?
+We are currently working on a **VR project for a client**.
 
-Here are some ideas to get you started:
+## 🛠️ What tools do we use?
+- Unity  
+- Unreal Engine  
+- Blender  
+- Maya  
+- Adobe Illustrator  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 How can you reach us?
+- GitHub (you’re here)
+- Instagram
+- LinkedIn (coming soon)
+- Website (coming soon)
